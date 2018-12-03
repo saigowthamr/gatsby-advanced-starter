@@ -1,0 +1,40 @@
+ .link{
+
+    text-decoration: none;
+    color: black;
+}
+
+.post-list {
+    border: 1px solid  gainsboro;
+    padding: .5rem;
+    box-shadow: 0 -1px 4px #ede7e7;
+    margin: 1rem;
+}
+
+img{
+  height: 90% !important;
+}
+
+.post-list:hover{
+    background-color: whitesmoke;
+}
+
+
+.tags{
+    display: flex;
+    flex-direction: column;
+}
+
+.tags a{
+    margin-bottom: 2rem;
+    list-style: none;
+        background-color: #ececec;
+    border: 1px solid #ffff;
+    border: 1px solid #ffff;
+    width: 80%;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: 1.1rem;
+    color: rgb(31, 26, 26);
+}
+
