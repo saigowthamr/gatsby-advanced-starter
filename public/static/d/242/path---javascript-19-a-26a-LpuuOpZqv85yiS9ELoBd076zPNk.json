@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"My first Blog post"},"fields":{"slug":"/my-firstpost/"}}},{"node":{"frontmatter":{"title":"My second Blog post"},"fields":{"slug":"/second-post/"}}}]}},"pageContext":{"tag":"javascript"}}

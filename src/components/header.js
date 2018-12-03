@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => (
         </a>
 
       </h2>
-      <a href="https://github.com/saigowthamr/gatsbyblog-starter"
+      <a href="https://github.com/saigowthamr/gatsby-advanced-starter"
         style={{ color: "white", float: "right" }} title="github" >Github</a>
       <Link
         to="/tags"

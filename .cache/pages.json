@@ -1,0 +1,57 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "gatsby-7b7",
+        "path": "/gatsby/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "javascript-19a",
+        "path": "/javascript/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "my-firstpost-448",
+        "path": "/my-firstpost/"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "jsonName": "offline-plugin-app-shell-fallback-a30",
+        "path": "/offline-plugin-app-shell-fallback/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "jsonName": "page-2-fbc",
+        "path": "/page-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-template-js",
+        "jsonName": "react-0ab",
+        "path": "/react/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "second-post-adb",
+        "path": "/second-post/"
+    },
+    {
+        "componentChunkName": "component---src-pages-tags-js",
+        "jsonName": "tags-275",
+        "path": "/tags/"
+    }
+]
