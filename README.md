@@ -1,22 +1,24 @@
-# Gatsbyjs blog advanced  starter with seo,tags,sitemaps and best practices.
+# Gatsbyjs blog advanced  starter with seo,tags,sitemaps and best practices
 
 
 ![gatsbyblog starter kit](https://i.imgur.com/TyXI76p.png)
 
 
-## Tutorials for creating a gatsby blog.
+## Tutorials
 
-### Table of contents.
+### Table of contents
 
-- [Introduction to Gatsby](https://reactgo.com/gatsbyblog/introductiongatsby/)
-- [Getting started with Gatsby](https://reactgo.com/gatsbyblog/gettingstarted/)
-- [Querying the data](https://reactgo.com/gatsbyblog/queringdata/)
-- [Adding blog posts](https://reactgo.com/gatsbyblog/addingblogposts/)
-- [Getting the posts list](https://reactgo.com/gatsbyblog/gettinglist/)
-- [Adding images to the post](https://reactgo.com/gatsbyblog/addingimages/)
-- [Syntax highlighting and code blocks](https://reactgo.com/gatsbyblog/syntaxhighlighting/)
-- [Seo in Gatsby](https://reactgo.com/gatsbyblog/seogatsby/)
-- [Hosting the gatsby blog](https://reactgo.com/gatsbyblog/hostinggatsbysite/)
+- [Introduction to Gatsby](https://reactgo.com/gatsby-advanced-blog-tutorial/#introduction)
+- [Getting started with Gatsby](https://reactgo.com/gatsby-advanced-blog-tutorial/#getting-started-with-gatsby)
+- [Adding blog posts](https://reactgo.com/gatsby-advanced-blog-tutorial/#adding-blog-posts)
+- [Display the posts list](https://reactgo.com/gatsby-advanced-blog-tutorial/#display-the-posts-list)
+- [Creating the template for the blog posts](https://reactgo.com/gatsby-advanced-blog-tutorial/#creating-the-template-for-the-blog-posts)
+- [Adding images](https://reactgo.com/gatsby-advanced-blog-tutorial/#adding-images-to-the-post)
+- [Prev and next links](https://reactgo.com/gatsby-advanced-blog-tutorial/#prev-and-next-links)
+- [Tags](https://reactgo.com/gatsby-advanced-blog-tutorial/#tags)
+- [Seo](https://reactgo.com/gatsby-advanced-blog-tutorial/#seo-in-gatsby)
+- [Share icons](https://reactgo.com/gatsby-advanced-blog-tutorial/#share-icons)
+- [Bonus](https://reactgo.com/gatsby-advanced-blog-tutorial/#bonus)
 
 
 
@@ -31,13 +33,13 @@ npm install --global gatsby-cli
 And run from your CLI:
 
 ```sh
-git clone git@github.com:saigowthamr/gatsbyblog-starter.git
+git clone https://github.com/saigowthamr/gatsby-advanced-starter.git
 ```
 
 Then you can run it by:
 
 ```sh
-cd gatsbyblog-starter
+cd gatsby-advanced-starter
 npm install
 gatsby develop
 ```
