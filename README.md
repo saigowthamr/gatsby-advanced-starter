@@ -1,4 +1,4 @@
-# Gatsbyjs blog starter with seo and best practices.
+# Gatsbyjs blog advanced  starter with seo,tags,sitemaps and best practices.
 
 
 ![gatsbyblog starter kit](https://i.imgur.com/TyXI76p.png)
